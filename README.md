@@ -1,2 +1,4 @@
 # Predicting-student-mental-health-with ML Models
 This AI project focuses on the pressing issue of student mental health. After a thorough data cleaning and transformation phase, I utilized a dataset of 1977 student responses to predict a depression label. This project employs three distinct machine learning models: Logistic Regression, Naive Bayes, and a Neural Network (MLP Classifier) to predict the presence and severity of these mental health challenges. Comprehensive data pre-processing and feature engineering were also carried out before moving on to model training.
+
+Click on the Project report PDF for a complete overview including the specific model stats.
